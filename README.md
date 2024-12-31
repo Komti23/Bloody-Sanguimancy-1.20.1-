@@ -11,3 +11,5 @@ Author: Komti23
 Текстуры и концепция были позаимствованы из сезонов «Лололошки».
 
 Автор: Komti23
+
+https://minecraft-inside.ru/mods/180229-bloody-sanguimancy.html
