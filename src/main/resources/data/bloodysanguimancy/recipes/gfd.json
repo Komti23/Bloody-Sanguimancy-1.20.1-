@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "bloodysanguimancy:kusachki"
+  },
+  "base": {
+    "item": "minecraft:diamond"
+  },
+  "addition": {
+    "item": "bloodysanguimancy:provolka"
+  },
+  "result": {
+    "item": "bloodysanguimancy:kusachkialmaznyie"
+  }
+}

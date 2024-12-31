@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Fireofblood"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Zolotaia"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Zolotaia"
+      },
+      {
+        "value": "Items.FEATHER"
+      },
+      {
+        "value": "CUSTOM:Zolotaia"
+      },
+      {
+        "value": "Items.FEATHER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Test1"
+    },
+    "name": "u_5ghf",
+    "namespace": "mod"
+  }
+}

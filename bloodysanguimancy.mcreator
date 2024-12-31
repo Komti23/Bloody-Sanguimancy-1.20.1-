@@ -1,0 +1,1123 @@
+{
+  "mod_elements": [
+    {
+      "name": "BalckPriUdariePoSushchnostiInstrumientom",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "balck_pri_udarie_po_sushchnosti_instrumientom",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/BalckPriUdariePoSushchnostiInstrumientomProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Balck",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bladeofbone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/bladeofbone.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/BalckItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Assasin",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "assasin",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Khranilishchie",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "khranilishchie",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/client/gui/KhranilishchieScreen.java",
+          "src/main/java/net/mcreator/bloodysanguimancy/world/inventory/KhranilishchieMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "BantikPriShchielchkiePKM",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bantik_pri_shchielchkie_pkm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/BantikPriShchielchkiePKMProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eye",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eye",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/eye.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/EyeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Drop",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drop",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/DropProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NotEat",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "not_eat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/NotEatProcedure.java"
+        ],
+        "dependencies": []
+      }
+    },
+    {
+      "name": "AttackKazhdyiTikVInvientarie",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "attack_kazhdyi_tik_v_invientarie",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/AttackKazhdyiTikVInvientarieProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kusachki",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kusachki",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/KusachkiItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/kusachki.json"
+        ]
+      }
+    },
+    {
+      "name": "Zolotaia",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zolotaia",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/zolotaia.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/ZolotaiaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ProvolkaZ",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "provolka_z",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/provolka_z.json"
+        ]
+      }
+    },
+    {
+      "name": "Provolka",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "provolka",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/ProvolkaItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/provolka.json"
+        ]
+      }
+    },
+    {
+      "name": "Provolkacraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "provolkacraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/provolkacraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Oborv",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oborv",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/OborvItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/oborv.json"
+        ]
+      }
+    },
+    {
+      "name": "OborvPriPoluchieniiPriedmietaPoRietsieptu",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oborv_pri_poluchienii_priedmieta_po_rietsieptu",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/OborvPriPoluchieniiPriedmietaPoRietsieptuProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kusach",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kusach",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/kusach.json"
+        ]
+      }
+    },
+    {
+      "name": "Kusachkialmaznyie",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kusachkialmaznyie",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/kusachkialmaznyie.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/KusachkialmaznyieItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Norm",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "norm",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/norm.json"
+        ]
+      }
+    },
+    {
+      "name": "Amuliet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amuliet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/amuliet.json"
+        ]
+      }
+    },
+    {
+      "name": "Kodtt",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kodtt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/kodtt.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/KodttItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Drop2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drop_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/Drop2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gf",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gf",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/GfItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/gf.json"
+        ]
+      }
+    },
+    {
+      "name": "Kost",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kost",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/kost.json"
+        ]
+      }
+    },
+    {
+      "name": "Sama",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sama",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/sama.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/SamaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Spy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/spy.json"
+        ]
+      }
+    },
+    {
+      "name": "Str",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "str",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/StrItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/str.json"
+        ]
+      }
+    },
+    {
+      "name": "Prva",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prva",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/prva.json"
+        ]
+      }
+    },
+    {
+      "name": "Rukoiat",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rukoiat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/RukoiatItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/rukoiat.json"
+        ]
+      }
+    },
+    {
+      "name": "Ap",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ap",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/ap.json"
+        ]
+      }
+    },
+    {
+      "name": "Vyp",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vyp",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/vyp.json"
+        ]
+      }
+    },
+    {
+      "name": "F",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/network/FMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "Jump",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jump",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/JumpProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fyy",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fyy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/world/inventory/FyyMenu.java",
+          "src/main/java/net/mcreator/bloodysanguimancy/client/gui/FyyScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "SwPriShchielchkiePKM",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sw_pri_shchielchkie_pkm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/SwPriShchielchkiePKMProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gfd",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/gfd.json"
+        ]
+      }
+    },
+    {
+      "name": "Shuriken",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shuriken",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/entity/ShurikenEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Slot",
+      "type": "curiosslot",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/curios/tags/items/slot.json"
+        ]
+      }
+    },
+    {
+      "name": "Uaau",
+      "type": "curiosbauble",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uaau",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/uaau.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/UaauItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Etu",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "etu",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/etu.json"
+        ]
+      }
+    },
+    {
+      "name": "Sound",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sound",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/SoundItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/sound.json"
+        ]
+      }
+    },
+    {
+      "name": "EfeectPriShchielchkiePKM",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efeect_pri_shchielchkie_pkm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/EfeectPriShchielchkiePKMProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dropofblood",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dropofblood",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/DropofbloodItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/dropofblood.json"
+        ]
+      }
+    },
+    {
+      "name": "RItualknifePriShchielchkiePKM",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_itualknife_pri_shchielchkie_pkm",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/RItualknifePriShchielchkiePKMProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RItualknife",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_itualknife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/r_itualknife.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/RItualknifeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Bla",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bla",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/bla.json"
+        ]
+      }
+    },
+    {
+      "name": "Rings",
+      "type": "curiosslot",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/curios/tags/items/rings.json"
+        ]
+      }
+    },
+    {
+      "name": "Rings1WhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rings_1_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/Rings1WhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rings1",
+      "type": "curiosbauble",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rings_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/Rings1Item.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/rings_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Assa",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "assa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/AssaProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fd",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fd",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/fd.json"
+        ]
+      }
+    },
+    {
+      "name": "Test1BaubleIsEquipped",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_1_bauble_is_equipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/Test1BaubleIsEquippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test1BaubleIsUnequipped",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_1_bauble_is_unequipped",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/Test1BaubleIsUnequippedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test1",
+      "type": "curiosbauble",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/test_1.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/Test1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "RingofFlame",
+      "type": "curiosbauble",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ringof_flame",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/RingofFlameItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/ringof_flame.json"
+        ]
+      }
+    },
+    {
+      "name": "RingofFlameWhileBaubleIsEquippedTick",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ringof_flame_while_bauble_is_equipped_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/RingofFlameWhileBaubleIsEquippedTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bant",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bant",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/bant_helmet.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/BantItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Fireofblood",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireofblood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/fireofblood.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/FireofbloodItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Va",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "va",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/recipes/brewing/VaBrewingRecipe.java"
+        ]
+      }
+    },
+    {
+      "name": "U5ghf",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_5ghf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/u_5ghf.json"
+        ]
+      }
+    },
+    {
+      "name": "TEST",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/test.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/TESTItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Vnxnvx",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vnxnvx",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/procedures/VnxnvxProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Disposableblade",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disposableblade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bloodysanguimancy/models/item/disposableblade.json",
+          "src/main/java/net/mcreator/bloodysanguimancy/item/DisposablebladeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Stell",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stell",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bloodysanguimancy/item/StellItem.java",
+          "src/main/resources/assets/bloodysanguimancy/models/item/stell.json"
+        ]
+      }
+    },
+    {
+      "name": "Yno",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yno",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/yno.json"
+        ]
+      }
+    },
+    {
+      "name": "TsPK",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ts_pk",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bloodysanguimancy/recipes/ts_pk.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "assasin",
+      "type": "number",
+      "scope": "map",
+      "value": "0.0"
+    },
+    {
+      "name": "npc",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "fd",
+      "files": [
+        "fd"
+      ],
+      "category": "neutral",
+      "subtitle": "fd"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Sound"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:RItualknife"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Disposableblade",
+      "~CUSTOM:Balck"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.fd": "fd",
+      "item.bloodysanguimancy.fireofblood": "Огнянная кровь",
+      "item.bloodysanguimancy.dropofblood": "Капля крови",
+      "item.bloodysanguimancy.kodtt": "Кость Скелета Иссушителя",
+      "item.assasin.testt_spawn_egg": "Testt Spawn Egg",
+      "item.assasin.provolka": "Проволка",
+      "item.assasin.rings_1": "Кольцо Ассасина",
+      "item.assasin.kodtt": "Кость Скелета Иссушителя",
+      "item_group.assasin.assasin": "Assasin",
+      "item.bloodysanguimancy.disposableblade": "Одноразовое лезвие",
+      "item.assasin.fireofblood": "Огнянная кровь",
+      "item.assasin.kusachki": "Кусачки",
+      "item.assasin.sound.desc": "Просто пластинка",
+      "item.bloodysanguimancy.zolotaia": "Золотая Рроволка",
+      "item_group.bloodysanguimancy.assasin": "Bloody Sanguimancy",
+      "item.bloodysanguimancy.sama": "Цветочная Мазь",
+      "item.assasin.test_1": "Кольцо Лёгкости",
+      "item.bloodysanguimancy.r_itualknife": "Ритуальный нож",
+      "item.assasin.ringof_flame": "Кольцо пламени",
+      "item.assasin.eye": "Глах Хоглина",
+      "item.assasin.str": "Палка Покрытая Мазью",
+      "item.bloodysanguimancy.sound": "Пластинка",
+      "item.bloodysanguimancy.kusachki": "Кусачки",
+      "item.bloodysanguimancy.kusachkialmaznyie": "Алмазные Кусачки",
+      "key.assasin.f": "F",
+      "item.assasin.bladeofbone": "Клинок ",
+      "item.bloodysanguimancy.oborv": "Порванная Проволока",
+      "curios.identifier.rings": "Кольцо",
+      "item.bloodysanguimancy.gf": "Обработанная Кость Скелета Иссушителя",
+      "item.assasin.rukoiat": "Основа Для Клинка",
+      "item.assasin.uaau": "Амулет Хоглина",
+      "item.bloodysanguimancy.provolka": "Проволка",
+      "item.bloodysanguimancy.rukoiat": "Основа Для Клинка",
+      "item.bloodysanguimancy.stell": "Сталь",
+      "item.bloodysanguimancy.bladeofbone": "Клинок ",
+      "item.assasin.kusachkialmaznyie": "Алмазные Кусачки",
+      "item.bloodysanguimancy.test": "TEST",
+      "item.assasin.bant_helmet": "Бантик",
+      "item.assasin.zolotaia": "Золотая Рроволка",
+      "item.bloodysanguimancy.rings_1": "Кольцо Ассасина",
+      "entity.assasin.testt": "Testt",
+      "item.bloodysanguimancy.sound.desc": "Просто пластинка",
+      "item.assasin.bantik": "Bantik",
+      "key.bloodysanguimancy.f": "F",
+      "item.assasin.gf": "Обработанная Кость Скелета Иссушителя",
+      "item.assasin.r_itualknife": "Ритуальный нож",
+      "item.assasin.sound": "sound",
+      "item.bloodysanguimancy.ringof_flame": "Кольцо пламени",
+      "item.assasin.dropofblood": "Капля крови",
+      "item.bloodysanguimancy.uaau": "Амулет Хоглина",
+      "item.bloodysanguimancy.bant_helmet": "Бантик",
+      "item.assasin.oborv": "Порванная Проволока",
+      "item.bloodysanguimancy.test_1": "Кольцо Лёгкости",
+      "item.assasin.sama": "Цветочная Мазь",
+      "item.bloodysanguimancy.eye": "Глах Хоглина",
+      "item.bloodysanguimancy.str": "Палка Покрытая Мазью",
+      "curios.identifier.slot": "Амулет"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bloodysanguimancy",
+    "modName": "Bloody Sanguimancy",
+    "version": "0.1",
+    "author": "Komti23",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "curios_api",
+      "geckolib",
+      "ldlib_api",
+      "photon_api"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.bloodysanguimancy"
+  },
+  "mcreatorVersion": 202400232117
+}

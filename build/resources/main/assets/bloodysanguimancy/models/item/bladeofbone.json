@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bloodysanguimancy:item/chiernilnyi_klyk"
+  }
+}

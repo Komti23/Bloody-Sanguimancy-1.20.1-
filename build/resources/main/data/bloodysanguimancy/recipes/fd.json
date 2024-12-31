@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "b b",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:dropofblood"
+    },
+    "b": {
+      "item": "bloodysanguimancy:provolka"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:rings_1",
+    "count": 1
+  }
+}

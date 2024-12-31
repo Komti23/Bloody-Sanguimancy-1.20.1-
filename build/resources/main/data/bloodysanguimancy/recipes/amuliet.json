@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:zolotaia"
+    },
+    "b": {
+      "item": "bloodysanguimancy:eye"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:deleted_mod_element",
+    "count": 1
+  }
+}

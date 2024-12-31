@@ -1,0 +1,11 @@
+{
+  "fd": {
+    "subtitle": "subtitles.fd",
+    "sounds": [
+      {
+        "name": "bloodysanguimancy:fd",
+        "stream": false
+      }
+    ]
+  }
+}

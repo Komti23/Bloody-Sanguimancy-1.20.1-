@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:oborv"
+    },
+    "b": {
+      "item": "bloodysanguimancy:kodtt"
+    },
+    "c": {
+      "item": "bloodysanguimancy:zolotaia"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:r_itualknife",
+    "count": 1
+  }
+}

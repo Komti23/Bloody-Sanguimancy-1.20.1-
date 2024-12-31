@@ -1,0 +1,11 @@
+{
+  "_fv": 66,
+  "_type": "tab",
+  "definition": {
+    "name": "Bloody Sanguimancy",
+    "icon": {
+      "value": "CUSTOM:Dropofblood"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "d": {
+      "item": "bloodysanguimancy:provolka"
+    },
+    "e": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:sama",
+    "count": 1
+  }
+}

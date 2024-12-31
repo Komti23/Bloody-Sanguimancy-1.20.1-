@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:provolka"
+    },
+    "b": {
+      "item": "bloodysanguimancy:stell"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:disposableblade",
+    "count": 1
+  }
+}

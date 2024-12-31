@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bc ",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:kodtt"
+    },
+    "b": {
+      "item": "bloodysanguimancy:provolka"
+    },
+    "c": {
+      "item": "bloodysanguimancy:str"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:rukoiat",
+    "count": 1
+  }
+}

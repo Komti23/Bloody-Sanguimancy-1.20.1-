@@ -1,0 +1,21 @@
+[10нояб.2024 20:28:04.230] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 5, --assetsDir, C:\Users\semma\.mcreator\gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mixin.config, mixins.bloodysanguimancy.json]
+[10нояб.2024 20:28:04.264] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[10нояб.2024 20:28:04.653] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[10нояб.2024 20:28:04.823] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[10нояб.2024 20:28:05.110] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[10нояб.2024 20:28:05.226] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[10нояб.2024 20:28:05.228] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/semma/MCreatorWorkspaces/assasin/run/mods/OptiFine_1.20.1_HD_U_I6.jar%23191!/
+[10нояб.2024 20:28:05.242] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\semma\MCreatorWorkspaces\assasin\run\mods\OptiFine_1.20.1_HD_U_I6.jar
+[10нояб.2024 20:28:05.246] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[10нояб.2024 20:28:05.391] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/semma/.mcreator/gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[10нояб.2024 20:28:05.451] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1650/PCIe/SSE2 GL version 4.6.0 NVIDIA 561.09, NVIDIA Corporation
+[10нояб.2024 20:28:05.641] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[10нояб.2024 20:28:06.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\semma\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[10нояб.2024 20:28:06.472] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\semma\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[10нояб.2024 20:28:06.481] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\semma\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[10нояб.2024 20:28:06.492] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\semma\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[10нояб.2024 20:28:06.992] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: ldlib. Using Mod File: C:\Users\semma\.mcreator\gradle\caches\forge_gradle\deobf_dependencies\curse\maven\ldlib-626676\5437704_mapped_official_1.20.1\ldlib-626676-5437704_mapped_official_1.20.1.jar
+[10нояб.2024 20:28:06.993] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[10нояб.2024 20:28:08.079] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[10нояб.2024 20:28:08.093] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[10нояб.2024 20:28:09.448] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]

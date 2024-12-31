@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:gf"
+    },
+    "b": {
+      "item": "bloodysanguimancy:provolka"
+    },
+    "c": {
+      "item": "bloodysanguimancy:rukoiat"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:bladeofbone",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "b b",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodysanguimancy:fireofblood"
+    },
+    "b": {
+      "item": "bloodysanguimancy:zolotaia"
+    },
+    "c": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "bloodysanguimancy:test_1",
+    "count": 1
+  }
+}

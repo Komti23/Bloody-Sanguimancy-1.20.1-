@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Z",
+    "keyBindingName": "F",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Jump"
+    }
+  }
+}

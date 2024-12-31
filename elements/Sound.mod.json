@@ -1,0 +1,26 @@
+{
+  "_fv": 66,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Пластинка",
+    "rarity": "EPIC",
+    "texture": "music_disc_13",
+    "description": "Просто пластинка",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Assasin"
+      }
+    ],
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fd"
+    },
+    "lengthInTicks": 600,
+    "analogOutput": 2
+  }
+}
